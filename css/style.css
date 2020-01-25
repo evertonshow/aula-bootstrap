@@ -1,0 +1,37 @@
+
+body{
+font: 20px arial,sans-serif;
+}
+
+.navbar{
+    background: hsla(130, 83%, 43%, 0.753);
+}
+.quem-somos{
+    background-color: rgba(107, 176, 179, 0.952);
+    color: honeydew;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.time{
+    padding-top: 20px;
+}
+
+.parceiros{ background-color: #35dfebbd;
+    color: darkslateblue;
+}
+.serviços{
+    background-color: hsl(0, 100%, 99%);
+}
+.cs{
+    color: rgb(241, 6, 6);
+}
+
+.footer{
+    background-color: black;
+    color: hsla(59, 86%, 46%, 0.89);
+    text-transform: uppercase;
+}
