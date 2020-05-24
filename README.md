@@ -1,3 +1,3 @@
 # aula de Bootstrap
 
-como utilizar o -bootstrasp-.
+como utilizar o _bootstrasp_.
